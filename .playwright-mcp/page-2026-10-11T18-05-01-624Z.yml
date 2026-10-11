@@ -1,0 +1,75 @@
+- generic [ref=f7e2]:
+  - button "Switch to light mode" [ref=f7e3] [cursor=pointer]:
+    - generic [ref=f7e4]: 
+    - generic [ref=f7e5]: Light
+  - generic [ref=f7e6]:
+    - navigation [ref=f7e7]:
+      - generic [ref=f7e8]:
+        - generic [ref=f7e9]: 📚
+        - generic [ref=f7e10]: BookStore
+      - generic [ref=f7e11]:
+        - link "Login" [ref=f7e12] [cursor=pointer]:
+          - /url: /login
+        - link "Register" [ref=f7e13] [cursor=pointer]:
+          - /url: /register
+    - generic [ref=f7e15]:
+      - generic [ref=f7e16]:
+        - generic [ref=f7e18]:
+          - generic [ref=f7e19]: ✨
+          - text: AI-Powered Platform
+        - heading [level=1] [ref=f7e20]
+        - paragraph [ref=f7e22]: Manage your inventory, track stock, and explore AI-powered book recommendations — all in one place.
+        - generic [ref=f7e23]:
+          - link "🚀 Get Started" [ref=f7e24] [cursor=pointer]:
+            - /url: /login
+          - link "🤖 Try AI" [ref=f7e25] [cursor=pointer]:
+            - /url: /ai-chat
+      - generic [ref=f7e27]:
+        - generic [ref=f7e29]:
+          - generic [ref=f7e30]: 📚
+          - heading "Your Digital Bookshelf" [level=4] [ref=f7e32]
+          - paragraph [ref=f7e33]: Organize, discover, and manage with intelligence
+          - generic [ref=f7e34]:
+            - generic [ref=f7e35]:
+              - generic [ref=f7e36]: AI
+              - text: Powered
+            - generic [ref=f7e37]:
+              - generic [ref=f7e38]: 24/7
+              - text: Access
+            - generic [ref=f7e39]:
+              - generic [ref=f7e40]: 100%
+              - text: Secure
+            - generic [ref=f7e41]:
+              - generic [ref=f7e42]: Fast
+              - text: Search
+        - generic [ref=f7e43]:
+          - generic [ref=f7e44]: 
+          - text: Live Stock
+        - generic [ref=f7e45]:
+          - generic [ref=f7e46]: 
+          - text: AI Insights
+    - generic [ref=f7e47]:
+      - generic [ref=f7e48]:
+        - heading "Everything you need to manage books" [level=2] [ref=f7e49]
+        - paragraph [ref=f7e50]: Powerful tools for modern bookstore management
+      - generic [ref=f7e51]:
+        - generic [ref=f7e53]:
+          - generic [ref=f7e54]: 📦
+          - heading "Product Management" [level=5] [ref=f7e55]
+          - paragraph [ref=f7e56]: Add, edit, and track books with real-time stock control and inventory insights.
+        - generic [ref=f7e58]:
+          - generic [ref=f7e59]: 🔐
+          - heading "Secure Authentication" [level=5] [ref=f7e60]
+          - paragraph [ref=f7e61]: JWT-based login with role-based access control for admins and users.
+        - generic [ref=f7e63]:
+          - generic [ref=f7e64]: 🤖
+          - heading "AI Assistant" [level=5] [ref=f7e65]
+          - paragraph [ref=f7e66]: Smart book suggestions, pricing insights, and conversational AI chat support.
+    - generic [ref=f7e69]:
+      - generic [ref=f7e70]: React
+      - generic [ref=f7e71]: .NET Core
+      - generic [ref=f7e72]: JWT Auth
+      - generic [ref=f7e73]: AI Chat
+      - generic [ref=f7e74]: REST API
+    - generic [ref=f7e75]: © 2026 BookStore | React + .NET Core
+  - region "Notifications Alt+T"
